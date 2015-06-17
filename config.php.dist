@@ -1,0 +1,6 @@
+<?php
+
+$gitRepository = 'path-to-git';
+$rootDirectory = 'deployment-path';
+$keepReleases = 5;
+$runAs = 'www-data';
